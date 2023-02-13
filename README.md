@@ -1,6 +1,6 @@
 # login_Screen
 #
-<img align="right" alt="CALCULADORA-pic" height="450" style="border-radius:50px;" src="https://github.com/JVOA02/Lampada_1/blob/main/L%C3%A2mpada.gif">
+<img align="right" alt="CALCULADORA-pic" height="450" style="border-radius:50px;" src="https://github.com/JVOA02/login_Screen/blob/main/Tela%20de%20login.gif">
 #
 
 # 👨‍💻LoginScreen👨‍💻 
